@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a community Discord bot
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: [Niterfjord#9999](https://discord.com/users/349926728455684097) | me@niterfjord.be | https://niterfjord.be/
+- 📫 How to reach me: [Niterfjord#9999](https://discord.com/users/349926728455684097) | me@niterfjord.be | [niterfjord.be](https://niterfjord.be/)
 
 <!--
 **niterfjord/niterfjord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
