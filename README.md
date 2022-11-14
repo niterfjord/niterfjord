@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: [Niterfjord#9999](https://discord.com/users/349926728455684097) | me@niterfjord.be | [niterfjord.be](https://niterfjord.be/)
 
+### Information
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niterfjord&theme=dark)
 
 ### Projects
