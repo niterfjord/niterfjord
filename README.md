@@ -9,7 +9,6 @@
 ### Projects
 - [URL Biter](https://niterfjord.be/projects/urlbiter.php)
 - [C&D Informatics](https://niterfjord.be/projects/codegens.php)
-- [BelgiumNET](https://niterfjord.be/projects/belgiumsmp.php)
 
 <!--
 **niterfjord/niterfjord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
