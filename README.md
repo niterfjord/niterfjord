@@ -3,7 +3,6 @@
 ![GitHub profile views](https://komarev.com/ghpvc/?username=niterfjord&color=009999&style=for-the-badge) <!-- *(since 24th April 2023)* -->
 
 - 🔭 I’m currently working on a community Discord bot
-- 🌱 I’m currently learning Python
 - 📫 How to reach me: [Niterfjord#9999](https://discord.com/users/349926728455684097) | me@niterfjord.be | [niterfjord.be](https://niterfjord.be/)
 
 ### Projects
