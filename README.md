@@ -18,7 +18,7 @@
 
 #### Confident (less commonly used)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,py,bots,bootstrap,tailwind,idea,raspberrypi)](https://niterfjord.com)
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,html,css,js,nodejs,py,bots,bootstrap,tailwind,idea)](https://niterfjord.com)
 
 <details>
   <summary>Things I have tried but don't use frequently</summary>
