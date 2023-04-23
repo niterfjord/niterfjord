@@ -5,9 +5,6 @@
 
 ![GitHub profile views](https://komarev.com/ghpvc/?username=niterfjord&color=009999&style=for-the-badge) <!-- *(since 24th April 2023)* -->
 
-### Information
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niterfjord&theme=dark)
-
 ### Projects
 - [URL Biter](https://niterfjord.be/projects/urlbiter.php)
 - [C&D Informatics](https://niterfjord.be/projects/codegens.php)
