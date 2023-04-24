@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub profile views](https://komarev.com/ghpvc/?username=niterfjord&color=009999&style=for-the-badge) <!-- *(since 24th April 2023)* -->
+![GitHub profile views](https://komarev.com/ghpvc/?username=niterfjord&color=009999&style=for-the-badge)
 
 ### Contact
 
