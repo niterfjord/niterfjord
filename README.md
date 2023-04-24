@@ -7,9 +7,6 @@
 <a href="https://discord.com/users/349926728455684097" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/Discord_white.png" width="5%"></a>
 <a href="https://discord.com/users/349926728455684097" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/Github_white.png" width="5%"></a>
 <a href="mailto:me@niterfjord.be" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/Mail_ru_white.png" width="5%"></a>
-
-### Socials
-
 <a href="https://www.twitch.tv/niterfjord" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/Twitch_white.png" width="5%"></a>
 <a href="https://www.youtube.com/NiterFjord" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/Youtube_white.png" width="5%"></a>
 <a href="https://steamcommunity.com/id/niterfjord/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/Steam_white.png" width="5%"></a>
@@ -18,7 +15,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,powershell,cloudflare,nginx,mysql,discord,docker,github,git,vscode,aws,azure,linkedin,wordpress,raspberrypi,html,css,js,nodejs,py,bots,bootstrap,tailwind,sass,idea&perline=6)](https://niterfjord.com)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,powershell,cloudflare,nginx,mysql,discord,docker,github,git,vscode,aws,azure,linkedin,wordpress,raspberrypi,html,css,js,nodejs,py,bots,bootstrap,tailwind,sass,idea&perline=8)](https://niterfjord.com)
 
 <details>
   <summary>Things I have tried but don't use frequently</summary>
