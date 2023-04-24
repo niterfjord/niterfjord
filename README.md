@@ -15,12 +15,12 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,powershell,cloudflare,nginx,mysql,discord,docker,github,git,vscode,wordpress,raspberrypi,html,css,js,nodejs,py,bots,bootstrap,tailwind,sass,idea,aws,azure&perline=8)](https://niterfjord.com)
+[![My Skills](https://skillicons.dev/icons?i=linux,nginx,mysql,docker,git,bots,wordpress,raspberrypi,azure,aws,cloudflare,discord,github,vscode,idea,visualstudio,bash,powershell,html,css,js,nodejs,py,bootstrap,tailwind,sass&perline=8)](https://niterfjord.com)
 
 <details>
   <summary>Things I have tried but don't use frequently</summary>
   
-  [![My Skills](https://skillicons.dev/icons?i=php,eclipse,cs,dotnet)](https://niterfjord.com)
+  [![My Skills](https://skillicons.dev/icons?i=php,cs,dotnet,eclipse)](https://niterfjord.com)
 
 </details>
 
