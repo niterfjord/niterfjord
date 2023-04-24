@@ -15,7 +15,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,powershell,cloudflare,nginx,mysql,discord,docker,github,git,vscode,aws,azure,linkedin,wordpress,raspberrypi,html,css,js,nodejs,py,bots,bootstrap,tailwind,sass,idea&perline=8)](https://niterfjord.com)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,powershell,cloudflare,nginx,mysql,discord,docker,github,git,vscode,wordpress,raspberrypi,html,css,js,nodejs,py,bots,bootstrap,tailwind,sass,idea,aws,azure&perline=8)](https://niterfjord.com)
 
 <details>
   <summary>Things I have tried but don't use frequently</summary>
