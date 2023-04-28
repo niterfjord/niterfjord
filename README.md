@@ -26,7 +26,7 @@
 
 #### Soon™️
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,firebase)](https://niterfjord.com)
+[![My Skills](https://skillicons.dev/icons?i=react,mongodb)](https://niterfjord.com)
 
 ### Stats
 
