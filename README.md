@@ -5,7 +5,7 @@
 ### Contact
 
 <a href="https://discord.com/users/349926728455684097" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/Discord_white.png" width="5%"></a>
-<a href="https://discord.com/users/349926728455684097" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/Github_white.png" width="5%"></a>
+<a href="https://github.com/niterfjord" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/Github_white.png" width="5%"></a>
 <a href="mailto:me@niterfjord.be" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/Mail_ru_white.png" width="5%"></a>
 <a href="https://www.twitch.tv/niterfjord" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/Twitch_white.png" width="5%"></a>
 <a href="https://www.youtube.com/NiterFjord" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/Youtube_white.png" width="5%"></a>
@@ -27,6 +27,11 @@
 #### Soon™️
 
 [![My Skills](https://skillicons.dev/icons?i=react,mongodb)](https://niterfjord.com)
+
+### Discord Bots
+
+<a href="https://ticketbot.niterfjord.com/" target="_blank"><img src="https://cdn.discordapp.com/avatars/1119632928239005707/23afe7638a4abedf0361d3139e923969.webp?size=32" width="5%"></a>
+<a href="https://musicbot.niterfjord.com/" target="_blank"><img src="https://cdn.discordapp.com/avatars/985554635207110657/52ebef0ea45e0c7c4f1d6b0fc1d46d66.webp?size=32" width="5%"></a>
 
 ### Stats
 
