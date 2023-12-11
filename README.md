@@ -48,4 +48,4 @@
 
 ### What I'm doing right now
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/349926728455684097)](https://discord.com/users/349926728455684097)
+[![Discord Presence](https://lanyard.cnrad.dev/api/349926728455684097)](https://discord.com/users/349926728455684097)
